@@ -1,2 +1,2 @@
 # LT_SOL
-dsa practice leetcode solutions
+dsa practice and leetcode solutions
